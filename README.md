@@ -58,7 +58,7 @@
 
 <img>
 
-![Talha's github stats](https://github-readme-stats.vercel.app/api?username=talha08&show_icons=true&theme=radical&include_all_commits=true&count_private=true&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talha08&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Talha's github stats](https://github-readme-stats.vercel.app/api?username=talha08&show_icons=true&include_all_commits=true&count_private=true&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talha08&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=talha08.visitor-badge)
