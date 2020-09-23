@@ -38,14 +38,6 @@
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
 <code><a href="#" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></a></code>
 
-
-
-
-
-
-
-<code><a href="https://jupyter.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
-<code><a href="https://analytics.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-ar21.svg"></a></code>
 <code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
 <code><a href="https://www.mysql.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
 <code><a href="https://www.sqlite.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></a></code>
@@ -53,13 +45,13 @@
 <br>
 <br>
 <br>
-**🌱 Looking forward to learn:** <br>
-<br>
-<code><a href="https://cloud.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></a></code>
-<code><a href="https://aws.amazon.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a></code>
-<br>
-<br>
-<br>
+
+
+**🌱 Learning**
+
+| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker logo" width="24">](https://www.docker.com/) |[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" alt="kubernetes logo" width="24">](https://kubernetes.io/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/aws.png" alt="aws logo" width="24">](https://aws.amazon.com/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/codecov.png" alt="codecov logo" width="24">](https://codecov.io/)| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/jupyter_notebook.png" alt="jupyter notebook logo" width="30">](https://jupyter.org/)| many more...
+|---|---|---|---|---|---|
+
 
 
 
@@ -67,3 +59,6 @@
 <img>
 
 ![Talha's github stats](https://github-readme-stats.vercel.app/api?username=talha08&show_icons=true&theme=radical&include_all_commits=true&count_private=true&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talha08&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=talha08.visitor-badge)
