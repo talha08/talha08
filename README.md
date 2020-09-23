@@ -17,7 +17,7 @@
 **Talking about Personal Stuffs:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://media3.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif"/>
+<img width="30%" align="right" alt="Github" src="https://media3.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif"/>
 
 - 👨🏽‍💻 I’m currently working on [Widespace](https://www.widespace.com/);
 - 💬 Ask me about anything, I am happy to help;
