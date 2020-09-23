@@ -14,7 +14,7 @@
 
 
 <!-- Talking about you -->
-**Talking about Personal Stuffs:**
+**✨Talking about Personal Stuffs:**
 
 <!-- Any image aligned to the right. Beware the width -->
 <img width="30%" align="right" alt="Github" src="https://media3.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif"/>
@@ -24,6 +24,42 @@
 
 <br />
 <br />
+
+**✨ Tech stacks currently using** <br>
+<br>
+<code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></a></code>
+<code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></a></code>
+
+<code><a href="https://laravel.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"></a></code>
+<code><a href="https://expressjs.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></a></code>
+<br>
+
+<code><a href="https://vuejs.org" target="_blank"><img height="50" src="https://vuejs.org/images/logo.png"></a></code>
+<code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
+<code><a href="#" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></a></code>
+
+
+
+
+
+
+
+<code><a href="https://jupyter.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
+<code><a href="https://analytics.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-ar21.svg"></a></code>
+<code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
+<code><a href="https://www.mysql.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
+<code><a href="https://www.sqlite.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></a></code>
+<code><a href="https://www.json.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></a></code>
+<br>
+<br>
+<br>
+**🌱 Looking forward to learn:** <br>
+<br>
+<code><a href="https://cloud.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></a></code>
+<code><a href="https://aws.amazon.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a></code>
+<br>
+<br>
+<br>
 
 
 
