@@ -19,7 +19,7 @@
 <!-- Any image aligned to the right. Beware the width -->
 <img width="30%" align="right" alt="Github" src="https://media3.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif"/>
 
-- 👨🏽‍💻 I’m currently working on [Widespace](https://www.widespace.com/);
+- 👨🏽‍💻 I’m currently working on [Smarter AI DMCC](https://smarterai.camera/);
 - 💬 Ask me about anything, I am happy to help;
 
 <br />
